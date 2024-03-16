@@ -17,6 +17,15 @@ export default {
       },
     },
     extend: {
+      colors: {
+        background: "#030303",
+        foreground: {
+          DEFAULT: "#F3F2F3",
+          300: "#9C9A9E",
+          600: "#7D7981",
+        },
+        accent: "#403D42",
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
