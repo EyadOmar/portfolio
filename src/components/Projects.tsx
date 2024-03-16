@@ -22,6 +22,7 @@ function Projects() {
         Design By{" "}
         <a
           className="text-foreground-300 underline"
+          target="_blank"
           href="https://dribbble.com/NicolasMzrd"
         >
           Nicolas Meuzard
