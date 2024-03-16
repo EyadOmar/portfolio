@@ -34,9 +34,7 @@ function Personal() {
       >
         Download CV
       </a>
-      <div className="mt-auto hidden lg:block">
-        <Footer />
-      </div>
+      <Footer />
     </section>
   );
 }

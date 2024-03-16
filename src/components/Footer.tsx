@@ -1,8 +1,8 @@
 import { Codepen, Github, Mail, Phone } from "lucide-react";
 function Footer() {
   return (
-    <footer className="mt-auto flex items-center gap-4 text-lg font-semibold">
-      <p>Contact & Social: </p>
+    <footer className="mt-6 flex items-center gap-4 text-lg font-semibold lg:mt-auto">
+      <p>Contact:</p>
       <a
         href="https://wa.me/+201002379226"
         target="_blank"
