@@ -7,7 +7,7 @@ const tools = [
   {
     id: "skill_2",
     title: "React",
-    desc: "My top and only library to manage front-end logic, I really like the component based approch, its file structure, and the community. I use it alone with vite only when I am building SPAs like this website but most of the time I use it in framework like Nextjs",
+    desc: "My top and only library to manage front-end logic, I really like the component based approch, its file structure, and the community. I use it alone with vite when I am building small stuff like this website but most of the time I use it in framework like Nextjs",
   },
   {
     id: "skill_3",
@@ -52,10 +52,15 @@ const tools = [
   {
     id: "skill_10",
     title: "PostgreSQL / MongoDB",
-    desc: "my favorite relational/non-relational database. of course, I can use any database if it has documentation online I can use it but those what I work with the most",
+    desc: "my favorite relational/non-relational databases. of course, I can use any database if it has documentation online I can use it but those what I work with the most",
   },
   {
     id: "skill_11",
+    title: "Hositng",
+    desc: "I can host any web application, I dealt with unmanaged, managed, and shared VPS. I dealt with different providers like scala, hostinger, and  Hetzner",
+  },
+  {
+    id: "skill_12",
     title: "And Many more...",
     desc: "of course I am a veteran git and github user, I also dealt with figma, adobe xd, I also used cmd alot while dealing with VPS, and more more.",
   },

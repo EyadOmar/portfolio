@@ -7,8 +7,11 @@ function Personal() {
         Hello, I am Eyad Omar
       </h1>
       <p className=" text-pretty text-white/50 md:text-lg lg:text-xl">
-        A full stack developer that has created numerous apps and is eager to
-        create more.
+        Full-Stack MERN Developer with solid one and half years of experience
+        building and deploying real-world apps in e-commerce, recruitment, and
+        social platforms.with hands-on experience managing teams and deploying
+        website. Passionate about problem-solving, clean code, and delivering
+        user-focused solutions.
       </p>
       <a
         href="cv.pdf"
